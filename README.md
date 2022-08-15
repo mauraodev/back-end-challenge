@@ -10,7 +10,7 @@ A empresa XPTO está enfrentando um problema para realizar o agendamento dos pac
 
 Desenvolver um aplicação/sistema para cadastrar os clientes com as informações:
 
-Clientes:
+**Clientes**
 
 - Nome
 - CPF
@@ -20,13 +20,13 @@ Clientes:
 - Endereço (Logradouro, Bairro, Cep)
 - Telefone
 
-Médicos
+**Médicos**
 
 - Nome
 - CRM
 - Especialidade
 
-Agendamento
+**Agendamento**
 
 - Paciente
 - Médico
